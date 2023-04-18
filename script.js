@@ -1,8 +1,8 @@
 const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': 'd516a4915emsh8d0c711196067cdp14ed4ajsn7253f13db007',
-		'X-RapidAPI-Host': 'alpha-vantage.p.rapidapi.com'
+		 // 'X-RapidAPI-Key': 'd516a4915emsh8d0c711196067cdp14edygtcjbh4ajsn7253f13db007',   //[get this from rapid api   link:- https://rapidapi.com/alphavantage/api/alpha-vantage]
+		// 'X-RapidAPI-Host': 'alpha-vantage.p.rapidapi.com'
 	}
 };
 
